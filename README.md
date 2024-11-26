@@ -147,7 +147,14 @@ Segurança na execução de códigos enviados
 
 Próximos Passos:
 
+<div>
+  
 Definir escopo detalhado
+
 Criar protótipo de baixa fidelidade
+
 Desenvolver MVP (Produto Mínimo Viável)
+
 Teste com usuários inicial
+
+</div>
