@@ -2,6 +2,9 @@
 Um aplicativo de aprendizado de programação com gamificação
 
 <div>
+
+```bash
+
   codequestapp/
 │
 ├── backend/
@@ -16,12 +19,18 @@ Um aplicativo de aprendizado de programação com gamificação
 │   └── package.json
 │
 └── docs/
+```
+
 </div>
 
 --------------------------------------------------
 
 Detalhes do Projeto "CodeQuest"
+
+<div>
 Nome Sugerido: CodeQuest 🚀
+</div>
+
 Diferenciais do Aplicativo:
 
 Gamificação Inteligente
