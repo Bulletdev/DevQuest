@@ -5,20 +5,45 @@ Um aplicativo de aprendizado de programação com gamificação
 
 ```bash
 
-  codequestapp/
+codequest/
 │
 ├── backend/
 │   ├── cmd/
+│   │   └── main.go                  # Arquivo principal do servidor Go
+│   │
 │   ├── internal/
+│   │   ├── models/
+│   │   │   └── lesson.go            # Definição do modelo de Lição
+│   │   │
+│   │   └── handlers/
+│   │       └── lesson_handler.go    # Handlers para rotas de lições
+│   │
 │   ├── pkg/
-│   └── go.mod
+│   │   └── utils/
+│   │       └── cors.go              # Utilitários como configuração de CORS
+│   │
+│   └── go.mod                       # Dependências do Go
 │
 ├── frontend/
-│   ├── src/
 │   ├── public/
-│   └── package.json
+│   │   ├── index.html
+│   │   └── favicon.ico
+│   │
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── LessonList.js        # Lista de lições
+│   │   │   └── LessonDetail.js      # Detalhes de uma lição
+│   │   │
+│   │   ├── services/
+│   │   │   └── api.js               # Configuração de chamadas à API
+│   │   │
+│   │   ├── App.js                   # Componente principal
+│   │   └── index.js                 # Ponto de entrada do React
+│   │
+│   ├── package.json
+│   └── README.md
 │
-└── docs/
+└── README.md                        # Documentação principal do projeto
 ```
 
 </div>
