@@ -71,7 +71,29 @@ Perda de pontos/energia se não realizar lições
 Badges e conquistas para motivação
 Ranking global e entre amigos
 
+Instruções para iniciar o projeto:
 
+No diretório backend:
+
+```bash
+go mod tidy
+go run cmd/main.go
+```
+
+No diretório frontend:
+
+```bash
+npm install
+npm start
+```
+
+O projeto estará rodando:
+
+Backend: http://localhost:8080
+Frontend: http://localhost:3000
+
+
+<details>
 Estrutura de Aprendizado
 
 
@@ -120,6 +142,8 @@ Criar um sistema de avaliação de código seguro
 Garantir experiência de usuário fluida
 Sistema de pontuação justo e motivador
 Segurança na execução de códigos enviados
+</details>
+
 
 Próximos Passos:
 
