@@ -1,6 +1,11 @@
 # CodeQuest🚀
 Um aplicativo de aprendizado de programação com gamificação
 
+
+### Link do projeto e tarefas:
+
+https://github.com/users/Bulletdev/projects/1/views/4
+
 <div>
 
 ```bash
