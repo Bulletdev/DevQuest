@@ -1,6 +1,8 @@
 # DevQuest🚀
 Um aplicativo de aprendizado de programação com gamificação
 
+Projeto em desenvolvimento
+
 
 ### Link do projeto e tarefas:
 
