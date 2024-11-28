@@ -12,7 +12,7 @@ https://github.com/users/Bulletdev/projects/1/views/4
 
 ```bash
 
-codequest/
+devquest/
 │
 ├── backend/
 │   ├── cmd/
