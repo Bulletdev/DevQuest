@@ -57,10 +57,10 @@ codequest/
 
 --------------------------------------------------
 
-Detalhes do Projeto "CodeQuest"
+Detalhes do Projeto "DevQuest"
 
 <div>
-Nome Sugerido: CodeQuest 🚀
+Nome Sugerido: DevQuest 🚀
 </div>
 
 Diferenciais do Aplicativo:
