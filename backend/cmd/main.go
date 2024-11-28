@@ -32,21 +32,16 @@ func main() {
 }
 
 func GetLessons(w http.ResponseWriter, r *http.Request) {
-	// Lógica para buscar lições
 }
 
 func GetLesson(w http.ResponseWriter, r *http.Request) {
-	// Lógica para buscar uma lição específica
 }
 
 func UpdateUserProgress(w http.ResponseWriter, r *http.Request) {
-	// Lógica para atualizar progresso do usuário
 }
 
 func Login(w http.ResponseWriter, r *http.Request) {
-	// Lógica de autenticação
 }
 
 func Register(w http.ResponseWriter, r *http.Request) {
-	// Lógica de registro
 }
