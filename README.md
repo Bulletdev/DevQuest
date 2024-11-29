@@ -1,7 +1,7 @@
 # DevQuest🚀
 Um aplicativo de aprendizado de programação com gamificação
 
-Projeto em desenvolvimento
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO_EM_DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 
 
 ### Link do projeto e tarefas:
