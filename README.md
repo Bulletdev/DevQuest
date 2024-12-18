@@ -8,6 +8,10 @@ Um aplicativo de aprendizado de programação com gamificação
 
 https://github.com/users/Bulletdev/projects/1/views/4
 
+
+Estrutura do Projeto
+<details>
+
 <div>
 
 ```bash
@@ -53,9 +57,11 @@ devquest/
 └── README.md                        # Documentação principal do projeto
 ```
 
-</div>
 
+</div></details>
+ 
 --------------------------------------------------
+
 
 Detalhes do Projeto "DevQuest"
 
